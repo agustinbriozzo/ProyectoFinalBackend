@@ -1,0 +1,57 @@
+[
+    {
+    "id": 1,
+    "title": "producto 1",
+    "description": "producto 1 prueba",
+    "code": "p1",
+    "price": 100,
+    "status": true,
+    "stock": 10,
+    "category": "categoria1",
+    "thumbnails": ["https://example.com/image1.jpg"]
+    },
+    {
+    "id": 2,
+    "title": "producto 2",
+    "description": "producto 2 prueba",
+    "code": "p2",
+    "price": 200,
+    "status": true,
+    "stock": 20,
+    "category": "categoria2",
+    "thumbnails": ["https://example.com/image2.jpg"]
+    },
+    {
+    "id": 3,
+    "title": "producto 3",
+    "description": "producto 3 prueba",
+    "code": "p3",
+    "price": 300,
+    "status": true,
+    "stock": 30,
+    "category": "categoria3",
+    "thumbnails": ["https://example.com/image3.jpg"]
+    },
+    {
+    "id": 4,
+    "title": "producto 4",
+    "description": "producto 4 prueba",
+    "code": "p4",
+    "price": 400,
+    "status": true,
+    "stock": 40,
+    "category": "categoria4",
+    "thumbnails": ["https://example.com/image4.jpg"]
+    },
+    {
+    "id": 5,
+    "title": "producto 5",
+    "description": "producto 5 prueba",
+    "code": "p5",
+    "price": 5000,
+    "status": true,
+    "stock": 500,
+    "category": "categoria5",
+    "thumbnails": ["https://example.com/image5.jpg"]
+    }
+]
